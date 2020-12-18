@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de gestión</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="javascript" href="script.js">
+    <link rel="shortcut icon" href="Readme.ico">
+</head>
+<body>
+
+  <div class="topnav">
+    <a class="active" href="index.html">Inicio</a>
+    <a href="contacto.html">Contacto</a>
+    <a href="listarcapacitaciones.html">Listado Capacitaciones</a>
+    <a href="listadousuarios.html">Listado Usuarios</a>
+    <a href="listadoasesorias.html">Listado Asesorias</a>
+    <a href="listadovisitas.html">Listado visitas</a>
+  </div>
+
+<h1>Listar Visitas</h1>
+ 
+<div class="row" >
+  <table id="tabla">
+  <div class="col-9 col-s-12">
+    <tr id="lista" >
+      <td>Fecha</td>
+      <td>Hora</td>
+      <td>Nombre cliente</td>
+      <td>Rut cliente</td>
+    </tr>
+  <tr>
+      <td>15/10/2020</td>
+      <td>11:00</td>
+      <td>José Guzman</td>
+      <td>105423651</td>                   
+      <td><a id="chequeo" href="responderchecklist.html">Editar</a></td>
+  </tr>
+ </table>
+</div>
+<div class="col-3 col-s-12">
+<form id="chequeo"  action="responderchecklist.html">       
+   <input type="submit" value="Crear Usuario">
+</form> 
+</div>       
+</div> 
+</body>
+</html>
