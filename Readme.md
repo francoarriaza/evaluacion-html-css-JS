@@ -10,9 +10,9 @@ SOLUCIÓN
 Es necesario desarrollar una solución tecnológica que cubra los procesos de negocio descritos y que proponga una mejora en la gestión, el control, la seguridad, y disponibilidad de información para la empresa y sus clientes. El sistema debe permitir la planificación de actividades y el control de ejecución de éstas, la gestión de clientes, la coordinación entre la empresa, los profesionales y los clientes para la respuesta temprana ante incidentes de seguridad. Además, se requiere que el sistema genere reportes y estadísticas que ayuden a tomar de decisiones y mejorar el rendimiento de la empresa, considerando la carga laboral, y la demanda de clientes y las actividades que cada uno involucra para el cumplimiento de los contratos. Es imprescindible, mantener comunicación con los profesionales en todo momento, aún en terreno, y darle la posibilidad de realizar todas sus actividades aun no teniendo conectividad (internet), ya que muchas empresas se encuentran en zonas donde no hay conexión de ese tipo.
 
 Integrantes
-Manuel Calderón Github
-Miguel Parra Github
+Manuel Calderón Github https://github.com/AlegriaStack/Final-M3.git 
+Miguel Parra Github https://github.com/manuelcalderon/Evaluacion3.git 
 Juan Perez Github
-Franco Arriaza Github
+Franco Arriaza Github https://github.com/francoarriaza/evaluacion-html-css-JS
 
 
